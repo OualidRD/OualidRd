@@ -40,7 +40,7 @@ Here are a few projects I’ve worked on:
 <p align="center">
 <a href="https://www.linkedin.com/in/oualid-raidi-a35b5227a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/OualidRD"><img src="https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:oualidraidi@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
