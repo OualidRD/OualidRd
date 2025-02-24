@@ -12,9 +12,9 @@ I’m a passionate software engineering student at **FST Settat** with a deep in
 
 ## 💻 Skills and Technologies
 
-- **Programming Languages**: PHP, java
+- **Programming Languages**: PHP, java, java EE, java SE
 - **Web Development**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Laravel, javafx
+- **Frameworks & Libraries**: Spring Boot, Laravel, javafx
 - **Database Management**: MySQL, PhpMyAdmin
 - **IDEs**: Visual Studio Code, eclipse
 - **Version Control**: Git, GitHub
