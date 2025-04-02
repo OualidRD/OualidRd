@@ -27,13 +27,13 @@ I’m a passionate software engineering student at **FST Settat** with a deep in
 
 Here are some projects I've worked on:
 
-- **[Ticketing Management System](https://github.com/OualidRD/TicketingSystem)**: An enterprise-grade ticket tracking solution that manages event tickets with features for role-based access control, SLA monitoring, and custom workflow automation.
+- **[Ticketing Management System](https://github.com/medrifai/EventCraft)**: An enterprise-grade ticket tracking solution that manages event tickets with features for role-based access control, SLA monitoring, and custom workflow automation.
 
-- **[Travel Agency Management System](https://github.com/OualidRD/TravelAgencySystem)**: A full-featured travel platform that processes bookings with a recommendation engine to suggest personalized travel packages based on user preferences.
+- **[Travel Agency Management System](https://github.com/OualidRD/BookFly)**: A full-featured travel platform that processes bookings with a recommendation engine to suggest personalized travel packages based on user preferences.
 
-- **[Academic Administrative System](https://github.com/OualidRD/AcademicSystem)**: A comprehensive desktop application for educational administration with features for automated scheduling, attendance tracking, and performance analytics.
+- **[Academic Administrative System](https://github.com/xmawe/gestion-college)**: A comprehensive desktop application for educational administration with features for automated scheduling, attendance tracking, and performance analytics.
 
-- **[Portfolio Website](https://github.com/OualidRD/Portfolio)**: A performance-optimized personal showcase featuring server-side rendering, dynamic content loading, and accessibility-compliant interfaces.
+- **[Portfolio Website](https://github.com/OualidRD/My_Portfolio)**: A performance-optimized personal showcase featuring server-side rendering, dynamic content loading, and accessibility-compliant interfaces.
 
 - **[Oualid's Dictionary](https://github.com/OualidRD/Oualid-s-Distionary)**: A Dictionary App that provides definitions, examples, and pronunciations for words, helping users expand their vocabulary and improve their language skills.
 
