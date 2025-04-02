@@ -12,23 +12,37 @@ I’m a passionate software engineering student at **FST Settat** with a deep in
 
 ## 💻 Skills and Technologies
 
-- **Programming Languages**: PHP, java, java EE, java SE
+- **Programming Languages**: PHP, Java, Java EE, Java SE, Dart
 - **Web Development**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Spring Boot, Laravel, javafx
+- **Frameworks & Libraries**: Spring Boot, Laravel, JavaFX, VueJS, ReactJS, NextJS, Flutter
 - **Database Management**: MySQL, PhpMyAdmin
-- **IDEs**: Visual Studio Code, eclipse
+- **IDEs**: Visual Studio Code, Eclipse
 - **Version Control**: Git, GitHub
+- **Project Management**: Kanban, Jira
+- **Containerization**: Docker
 - **Soft Skills**: Problem-solving, teamwork, and communication
 
 
 ## 🌟 Projects
 
-Here are a few projects I’ve worked on:
+Here are some projects I've worked on:
+
+- **[Ticketing Management System](https://github.com/OualidRD/TicketingSystem)**: An enterprise-grade ticket tracking solution that manages event tickets with features for role-based access control, SLA monitoring, and custom workflow automation.
+
+- **[Travel Agency Management System](https://github.com/OualidRD/TravelAgencySystem)**: A full-featured travel platform that processes bookings with a recommendation engine to suggest personalized travel packages based on user preferences.
+
+- **[Academic Administrative System](https://github.com/OualidRD/AcademicSystem)**: A comprehensive desktop application for educational administration with features for automated scheduling, attendance tracking, and performance analytics.
+
+- **[Portfolio Website](https://github.com/OualidRD/Portfolio)**: A performance-optimized personal showcase featuring server-side rendering, dynamic content loading, and accessibility-compliant interfaces.
 
 - **[Oualid's Dictionary](https://github.com/OualidRD/Oualid-s-Distionary)**: A Dictionary App that provides definitions, examples, and pronunciations for words, helping users expand their vocabulary and improve their language skills.
+
 - **[Simple To-Do List](https://github.com/OualidRD/Simple-To-Do-List)**: A Simple To-Do List App that helps users manage tasks by allowing them to add and delete items. It offers a straightforward interface to track and organize daily activities.
+
 - **[Product Filter and Search](https://github.com/OualidRD/Product_Filter_and_Search)**: A Search and Filter App for clothes that enables users to efficiently find and refine clothing items. Users can filter items by type, such as topwear, bottomwear, or jackets, and search by the name of articles, making it simple to locate specific clothing pieces.
-- **[PostsManagement](https://github.com/OualidRD/PostsManagement)**:A Post Management App developed using Laragon, HeidiSQL, and Cmder, designed to manage IT-related job positions within a company. The app allows users to add, modify, and delete job posts, providing detailed descriptions of various roles. This project aims to help organizations organize and maintain up-to-date information on available job positions in the IT domain.
+
+- **[PostsManagement](https://github.com/OualidRD/PostsManagement)**: A Post Management App designed to manage IT-related job positions within a company. The app allows users to add, modify, and delete job posts, providing detailed descriptions of various roles.
+
 ## 📈 Goals
 
 - Gain practical experience through internships and collaborative projects.
