@@ -12,15 +12,16 @@ I’m a passionate software engineering student at **FST Settat** with a deep in
 
 ## 💻 Skills and Technologies
 
-- **Programming Languages**: PHP, Java, Java EE, Java SE, Dart
-- **Web Development**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Spring Boot, Laravel, JavaFX, VueJS, ReactJS, NextJS, Flutter
-- **Database Management**: MySQL, PhpMyAdmin
-- **IDEs**: Visual Studio Code, Eclipse
-- **Version Control**: Git, GitHub
-- **Project Management**: Kanban, Jira
-- **Containerization**: Docker
-- **Soft Skills**: Problem-solving, teamwork, and communication
+- **Programming Languages**: PHP, Java, Java EE, Java SE, Dart  
+- **Web Development**: HTML, CSS, JavaScript  
+- **Frameworks & Libraries**: Spring Boot, Laravel, JavaFX, VueJS, ReactJS, NextJS, Flutter  
+- **Database Management**: MySQL, PhpMyAdmin, HeidiSQL  
+- **IDEs**: IntelliJ IDEA, Visual Studio Code, Eclipse  
+- **Development Tools**: Laragon, XAMPP, Cmder  
+- **Version Control**: Git, GitHub  
+- **Project Management**: Kanban, Jira  
+- **Containerization**: Docker  
+- **Soft Skills**: Problem-solving, teamwork, and communication  
 
 
 ## 🌟 Projects
