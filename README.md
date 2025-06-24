@@ -34,7 +34,7 @@ Here are some projects I've worked on:
 
 - **[Academic Administrative System](https://github.com/xmawe/gestion-college)**: A comprehensive desktop application for educational administration with features for automated scheduling, attendance tracking, and performance analytics.
 
-  - **[Guidini Mobile Application](https://github.com/xmawe/guidini_web_app)**: Led a team to develop a modern mobile application for tourists, offering flexible search and filtering by location and price, a "Guide of the Week/Month/Year" feature, and user-friendly interfaces showcasing Morocco’s cultural heritage.
+- **[Guidini Mobile Application](https://github.com/xmawe/guidini_web_app)**: Led a team to develop a modern mobile application for tourists, offering flexible search and filtering by location and price, a "Guide of the Week/Month/Year" feature, and user-friendly interfaces showcasing Morocco’s cultural heritage.
 
 - **[Portfolio Website](https://github.com/OualidRD/My_Portfolio)**: A performance-optimized personal showcase featuring server-side rendering, dynamic content loading, and accessibility-compliant interfaces.
 
