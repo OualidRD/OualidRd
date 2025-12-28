@@ -1,65 +1,228 @@
-# Hello, I'm Oualid 👋
+# 👋 Hello, I'm Oualid Raidi
 
-## About Me
+🎓 Final-year **Software Engineering Student**  
+📍 Casablanca, Morocco  
+💻 Backend • Full-Stack • Software Architecture • DevOps  
+🚀 Passionate about building scalable, clean, and impactful software solutions
 
-I’m a passionate software engineering student at **FST Settat** with a deep interest in information technology and technology. I’m committed to learning and applying my skills to solve real-world problems and contribute to innovative projects.
+---
+
+## 🚀 About Me
+
+I am a final-year **Software Engineering student at FST Settat** with strong foundations in **backend development, web technologies, and software architecture**.
+
+I enjoy transforming ideas into **robust, maintainable, and production-ready applications**, following **clean code principles**, **Agile methodologies**, and **modern development practices**.
+
+I gained real-world experience through **professional internships**, **enterprise-level projects**, and **international hackathons**, including **AI-powered platforms** and **microservices-based systems**.
+
+---
+
+## 🧑‍💻 Professional Experience
+
+### 🏢 Software Engineering Intern — **ECA Assurances**
+📍 Casablanca | 🗓️ **July 2025 – September 2025**
+
+**Project: CodeXium – AI-Assisted Code Optimization Platform**
+
+- Designed and developed an **AI-powered platform** to analyze source code and suggest optimizations.
+- Increased developer productivity by **~25%**.
+- Implemented:
+  - Code duplication detection
+  - Complexity analysis
+  - Optimization recommendations
+  - Project analytics dashboard
+- Worked in an **Agile/Scrum** environment.
+
+**Tech Stack:** Laravel, Vue.js, MySQL, Git, Agile
+
+---
+
+### 🏢 Software Engineering Intern — **ECA Assurances**
+📍 Casablanca | 🗓️ **June 2024 – August 2024**
+
+- Contributed to **enterprise internal web applications**.
+- Participated in **backend development using Java & Spring**.
+- Improved frontend components and application stability.
+- Used **Jira, Kanban boards**, and sprint planning.
+
+**Tech Stack:** Java, Spring Boot, Java EE, Git, Jira
+
+---
 
 ## 🎓 Education
 
-- **Software Engineering Student**  
-  **FST Settat**  
-  Expected Graduation: 2026
+### 🎓 State Engineer Degree in Software Engineering *(Ongoing)*
+**FST Settat** — *2023 – 2026*
 
-## 💻 Skills and Technologies
+- Modern Web Development  
+- Software Architecture  
+- Best Engineering Practices  
 
-- **Programming Languages**: Java, Java EE, Java SE, Dart  
-- **Web Development**: HTML, CSS, JavaScript  
-- **Frameworks & Libraries**: Spring Boot, Laravel, JavaFX, VueJS, ReactJS, NextJS, Flutter  
-- **Database Management**: MySQL, PhpMyAdmin, HeidiSQL  
-- **IDEs**: IntelliJ IDEA, Visual Studio Code, Eclipse  
-- **Development Tools**: Laragon, XAMPP, Cmder  
-- **Version Control**: Git, GitHub  
-- **Project Management**: Kanban, Jira  
-- **Containerization**: Docker  
-- **Soft Skills**: Problem-solving, teamwork, and communication  
+### 🎓 DEUST — Computer Science  
+**FST Mohammedia** — *2021 – 2023*
 
+- Algorithms & Data Structures  
+- C Programming  
+- SQL & Databases  
 
-## 🌟 Projects
+---
 
-Here are some projects I've worked on:
+## 🛠️ Technical Skills
 
-- **[Ticketing Management System](https://github.com/medrifai/EventCraft)**: An enterprise-grade ticket tracking solution that manages event tickets with features for role-based access control, SLA monitoring, and custom workflow automation.
+### 🔹 Programming Languages
+- Java (SE / EE)
+- C
+- Dart
+- JavaScript / TypeScript
 
-- **[Travel Agency Management System](https://github.com/OualidRD/BookFly)**: A full-featured travel platform that processes bookings with a recommendation engine to suggest personalized travel packages based on user preferences.
+### 🔹 Backend Development
+- Spring Boot, Spring MVC, Spring Security
+- Spring Data JPA, Hibernate
+- Laravel
+- REST APIs
+- JUnit
 
-- **[Academic Administrative System](https://github.com/xmawe/gestion-college)**: A comprehensive desktop application for educational administration with features for automated scheduling, attendance tracking, and performance analytics.
+### 🔹 Frontend & Web
+- HTML, CSS
+- React.js, Vue.js
+- Next.js
+- Node.js
+- WebSocket
 
-- **[Guidini Mobile Application](https://github.com/xmawe/guidini_web_app)**: Led a team to develop a modern mobile application for tourists, offering flexible search and filtering by location and price, a "Guide of the Week/Month/Year" feature, and user-friendly interfaces showcasing Morocco’s cultural heritage.
+### 🔹 Databases
+- MySQL
+- PostgreSQL
+- SQL
 
-- **[Portfolio Website](https://github.com/OualidRD/My_Portfolio)**: A performance-optimized personal showcase featuring server-side rendering, dynamic content loading, and accessibility-compliant interfaces.
+### 🔹 Mobile Development
+- Flutter
+- Dart
 
-- **[Oualid's Dictionary](https://github.com/OualidRD/Oualid-s-Distionary)**: A Dictionary App that provides definitions, examples, and pronunciations for words, helping users expand their vocabulary and improve their language skills.
+### 🔹 DevOps & Tools
+- Git & GitHub
+- Docker
+- Jenkins
+- CI/CD
+- Postman
+- Linux
 
-- **[Simple To-Do List](https://github.com/OualidRD/Simple-To-Do-List)**: A Simple To-Do List App that helps users manage tasks by allowing them to add and delete items. It offers a straightforward interface to track and organize daily activities.
+### 🔹 Methodologies & Concepts
+- Agile / Scrum
+- Jira, Kanban, Trello
+- UML, Merise
+- Software Architecture
+- Design Patterns
 
-- **[Product Filter and Search](https://github.com/OualidRD/Product_Filter_and_Search)**: A Search and Filter App for clothes that enables users to efficiently find and refine clothing items. Users can filter items by type, such as topwear, bottomwear, or jackets, and search by the name of articles, making it simple to locate specific clothing pieces.
+---
 
-- **[PostsManagement](https://github.com/OualidRD/PostsManagement)**: A Post Management App designed to manage IT-related job positions within a company. The app allows users to add, modify, and delete job posts, providing detailed descriptions of various roles.
+## 🌟 Featured Projects
 
-## 📈 Goals
+### 🎓 E-Learning Platform *(Ongoing)*
+**Spring Boot • Next.js • PostgreSQL • Microservices**
 
-- Gain practical experience through internships and collaborative projects.
-- Expand my knowledge in emerging technologies and software development practices.
-- Contribute to open-source projects and continuously improve my skills.
+- Scalable e-learning platform using **microservices architecture**
+- Course management, certifications, and academic integration
+- DevOps-oriented design
 
-## 📫 Contact Me
+---
+
+### 🎟️ Event Management & Ticketing System
+**Spring Boot • Thymeleaf • MySQL**
+
+- Complete ticketing solution for events and conferences
+- Improved efficiency by **40%**
+- Role-based access and clean UI/UX
+
+🔗 https://github.com/medrifai/EventCraft
+
+---
+
+### 🏫 Academic Management System
+**Java • JavaFX • MySQL**
+
+- Desktop application for scheduling, attendance, and performance analysis
+
+🔗 https://github.com/xmawe/gestion-college
+
+---
+
+### 🌍 Guidini — Tourism Mobile Application
+**Flutter • Laravel • MySQL**
+
+- Tourism promotion app with advanced search & recommendations
+- Team-based project with leadership responsibilities
+
+🔗 https://github.com/xmawe/guidini_web_app
+
+---
+
+### 🤖 CodeXium — AI Code Optimization Platform
+**Laravel • Vue.js • MySQL**
+
+- AI-based source code analysis
+- Duplication & complexity detection
+- Prediction accuracy: **85%**
+
+🔗 https://github.com/OualidRD/CodeXium-Backend
+🔗 https://github.com/OualidRD/CodeXium-Frontend
+🔗 https://github.com/OualidRD/CodeXium-Documentation
+
+---
+
+### 🛡️ SafeGuardian AI — Scam Detection on WhatsApp
+**Next.js • Node.js • Facebook Developer API**
+
+- Real-time scam detection
+- **92% accuracy**
+- Developed during **MIT Global Hackathon**
+
+---
+
+### 🌐 Personal Portfolio
+**Next.js • Vercel**
+
+🔗 https://raidioualid.vercel.app  
+🔗 https://github.com/OualidRD/My_Portfolio
+
+---
+
+## 📜 Certifications
+
+- 🏅 Oracle Java SE 17 Developer Professional - Udemy
+- ☁️ Oracle Cloud Infrastructure 2025 – Foundations Associate - Oracle
+- 🤖 Oracle Cloud Infrastructure 2025 – AI Foundations Associate - Oracle
+- ⚛️ Hands-On React JS – Udemy
+- 🔄 Professional Diploma in Agile & Scrum - Udemy
+- ⚙️ Git & Github - 365DataScience
+
+---
+
+## 🎯 Goals
+
+- Deepen expertise in **backend & distributed systems**
+- Master **cloud & DevOps practices**
+- Contribute to **open-source projects**
+- Build scalable, production-ready software
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/oualid-raidi-a35b5227a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/OualidRD"><img src="https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:oualidraidi@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://raidioualid.vercel.app/"><img src="https://img.shields.io/badge/portfolio-%23000000?style=flat&logo=portfolio&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/oualid-raidi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0177B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/OualidRD">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:oualidraidi0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://raidioualid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
-Thank you for visiting my GitHub profile!
+
+⭐ Thanks for visiting my GitHub profile!
