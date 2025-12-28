@@ -58,7 +58,7 @@ I gained real-world experience through **professional internships**, **enterpris
 - Software Architecture  
 - Best Engineering Practices  
 
-### 🎓 DEUST — Computer Science  
+### 🎓 DEUST — Mathematics, Computer Science, Physics
 **FST Mohammedia** — *2021 – 2023*
 
 - Algorithms & Data Structures  
@@ -72,7 +72,7 @@ I gained real-world experience through **professional internships**, **enterpris
 ### 🔹 Programming Languages
 - Java (SE / EE)
 - C
-- Dart
+- PHP
 - JavaScript / TypeScript
 
 ### 🔹 Backend Development
@@ -92,6 +92,7 @@ I gained real-world experience through **professional internships**, **enterpris
 ### 🔹 Databases
 - MySQL
 - PostgreSQL
+- MongoDB
 - SQL
 
 ### 🔹 Mobile Development
